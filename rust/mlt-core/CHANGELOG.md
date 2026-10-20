@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.21.2](https://github.com/maplibre/maplibre-tile-spec/compare/rust-mlt-core-v0.21.1...rust-mlt-core-v0.21.2) - 2026-10-20
+
+### Other
+
+- *(rust)* import local items via `crate::` paths ([#1964](https://github.com/maplibre/maplibre-tile-spec/pull/1964))
+
 ## [0.21.1](https://github.com/maplibre/maplibre-tile-spec/compare/rust-mlt-core-v0.21.0...rust-mlt-core-v0.21.1) - 2026-10-18
 
 ### Fixed
